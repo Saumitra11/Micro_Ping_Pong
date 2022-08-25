@@ -1,11 +1,3 @@
-;Author:Quantum Team
-;Date:08-12-2016
-;Chat module
-;----------------------------------------------
-
-;
-;Macros
-;
 ;Draws chat area
 DrawChatArea MACRO Y, Username
     ;Draw separator line
